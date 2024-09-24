@@ -8,6 +8,7 @@ paginate:            5
 permalink:           pretty
 
 # About/contact
+![Book logo](/assets/DnD.png)
 author:
   name:              Jon Delima
   url:               http://j-delima.github.io
