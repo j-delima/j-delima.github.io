@@ -9,15 +9,7 @@ Hello, you've reached my blog. I'm Jon, I'm an All-source Intelligence Technicia
 
 I'm currently in grad school, attempting to obtain a masters in analytics through Georgia Tech.
 
-# One Tag
-
-## Two Tags
-
-### Three Tags
-
-#### Four Tags
-
-##### Five Tags?
+I'm still thinking about what to put here, but I like the lists below... so, still under construction.
 
 Things that I'm currently reading:
 
@@ -28,5 +20,3 @@ Things that I'm currently working on:
 
 * I wonder what this will look like
 * Or how about this one?
-
-Thanks for reading!
