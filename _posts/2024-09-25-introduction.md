@@ -4,8 +4,8 @@ title: Post 0
 ---
 
 <div class="message">
-Every action you take is a vote for the type of person you wish to become.<br>
-- James Clear
+<cite>Every action you take is a vote for the type of person you wish to become.<br>
+- James Clear</cite>
 </div>
 
 ## Introduction
