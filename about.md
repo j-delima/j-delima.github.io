@@ -10,11 +10,11 @@ Hello, you've reached my blog. I'm Jon, I'm an All-source Intelligence Technicia
 I'm currently in grad school, attempting to obtain a masters in analytics through Georgia Tech.
 
 I'm currently reading:
-* <a href="https://www.airuniversity.af.edu/AUPress/Display/Article/3496663/beyond-the-pale-designing-military-decision-making-anew/">Beyond the Pale: Designing Military Decision-Making Anew</a> By Ben Zweibelson
+* <a href="https://www.airuniversity.af.edu/AUPress/Display/Article/3496663/beyond-the-pale-designing-military-decision-making-anew/">Beyond the Pale: Designing Military Decision-Making Anew</a> <br>by Ben Zweibelson
   
 Books on deck:
-* One Minute Manager Meets the Monkey by Hal Burrows, Ken Blanchard, and William Oncken
-* Superforecasting: The Art and Science of Prediction by Philip E. Tetlock and Dan Gardner
-* Range: Why Generalists Triumph in a Specialized World by David Epstein
+* One Minute Manager Meets the Monkey <br>by Hal Burrows, Ken Blanchard, and William Oncken
+* Superforecasting: The Art and Science of Prediction <br>by Philip E. Tetlock and Dan Gardner
+* Range: Why Generalists Triumph in a Specialized World <br>by David Epstein
 
 ###### Disclaimer: The views and opinions presented herein are those of the author and do not necessarily represent the views of DoD or the Army. Appearance of, or reference to, any commercial products or services does not constitute DoD or Army endorsement of those products or services. The appearance of external hyperlinks does not constitute DoD or Army endorsement of the linked websites, or the information, products or services therein.
